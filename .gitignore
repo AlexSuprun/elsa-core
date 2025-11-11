@@ -80,3 +80,9 @@ unlist.sh
 /docker/data/
 /docker/azurite-data/
 docker/docker-compose-datadog.yml
+
+
+# claude code 
+!.bmad-core/
+!.claude/
+!CLAUDE.md
